@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_dark.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tailsandknuxbop0000" x="0" y="0" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0001" x="1485" y="0" width="1481" height="647" frameX="-4" frameY="-8" frameWidth="1485" frameHeight="655"/>
+	<SubTexture name="Tailsandknuxbop0002" x="0" y="655" width="1478" height="647" frameX="-4" frameY="-8" frameWidth="1485" frameHeight="655"/>
+	<SubTexture name="Tailsandknuxbop0003" x="1478" y="655" width="1480" height="651" frameX="-2" frameY="-4" frameWidth="1485" frameHeight="655"/>
+	<SubTexture name="Tailsandknuxbop0004" x="0" y="1306" width="1482" height="651" frameX="-2" frameY="-4" frameWidth="1485" frameHeight="655"/>
+	<SubTexture name="Tailsandknuxbop0005" x="1482" y="1306" width="1483" height="653" frameX="-1" frameY="-2" frameWidth="1485" frameHeight="655"/>
+	<SubTexture name="Tailsandknuxbop0006" x="0" y="1959" width="1484" height="653" frameX="-1" frameY="-2" frameWidth="1485" frameHeight="655"/>
+	<SubTexture name="Tailsandknuxbop0007" x="1484" y="1959" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0008" x="0" y="2614" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0009" x="0" y="2614" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0010" x="0" y="2614" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0011" x="0" y="2614" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0012" x="0" y="2614" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0013" x="0" y="2614" width="1485" height="655"/>
+	<SubTexture name="Tailsandknuxbop0014" x="0" y="2614" width="1485" height="655"/>
+</TextureAtlas>
